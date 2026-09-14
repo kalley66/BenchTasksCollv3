@@ -1,1 +1,5 @@
-Create an alert system that monitors and processes notifications.
+# Task: alert-system
+
+## Description
+Complete the implementation for alert-system
+

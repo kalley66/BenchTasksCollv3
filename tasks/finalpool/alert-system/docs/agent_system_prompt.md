@@ -1,1 +1,4 @@
-You are a helpful assistant that processes alerts and notifications.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for alert-system in a beautiful way!
