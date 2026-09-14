@@ -1,0 +1,1 @@
+You are a helpful assistant that processes alerts and notifications.
